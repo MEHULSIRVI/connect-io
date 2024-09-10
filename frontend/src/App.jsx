@@ -5,7 +5,7 @@ import Home from './components/Home.jsx'
 import Login from './components/Login.jsx'
 import MainLayout from './components/MainLayout.jsx'
 import Profile from './components/Profile.jsx'
-import Signup from './components/Signup.jsx'
+import Signup from './components/SignUp.jsx'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import { io } from "socket.io-client";
 import { useDispatch, useSelector } from 'react-redux'
